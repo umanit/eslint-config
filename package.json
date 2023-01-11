@@ -1,0 +1,59 @@
+{
+  "name": "@umanit/eslint-config",
+  "description": "JavaScript Standard Style - ESLint Shareable Config",
+  "author": {
+    "name": "Vivien De Bona",
+    "email": "vdebona@umanit.fr"
+  },
+  "bugs": {
+    "url": "https://github.com/umanit/eslint-config/issues"
+  },
+  "homepage": "https://github.com/umanit/eslint-config",
+  "keywords": [
+    "JavaScript Standard Style",
+    "check",
+    "checker",
+    "code",
+    "code checker",
+    "code linter",
+    "code standards",
+    "code style",
+    "enforce",
+    "eslint",
+    "eslintconfig",
+    "hint",
+    "jscs",
+    "jshint",
+    "lint",
+    "policy",
+    "quality",
+    "simple",
+    "standard",
+    "standard style",
+    "style",
+    "style checker",
+    "style linter",
+    "verify"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/eslint-parser": "^7.19.1",
+    "@babel/preset-env": "^7.20.2",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:umanit/eslint-config.git"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "volta": {
+    "node": "18.13.0",
+    "yarn": "1.22.19"
+  }
+}
