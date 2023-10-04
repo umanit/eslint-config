@@ -50,6 +50,16 @@
       "error",
       "except-parens"
     ],
+    "prefer-destructuring": [
+      "error",
+      {
+        "array": false,
+        "object": true
+      },
+      {
+        "enforceForRenamedProperties": false
+      }
+    ],
     "spaced-comment": 0,
     "yoda": 0
   }
