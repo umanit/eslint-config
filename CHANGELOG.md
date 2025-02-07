@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.3] - 2025-02-07
+
 ### Modified
 
 - Ignore `max-len` rule on urls, template literals and RegExp
@@ -29,7 +31,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release 🚀
 
-[Unreleased]: https://github.com/umanit/eslint-config/compare/1.0.2...HEAD
+[Unreleased]: https://github.com/umanit/eslint-config/compare/1.0.3...HEAD
+
+[1.0.3]: https://github.com/umanit/eslint-config/compare/1.0.2...1.0.3
 
 [1.0.2]: https://github.com/umanit/eslint-config/compare/1.0.1...1.0.2
 
